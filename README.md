@@ -1,4 +1,4 @@
-# Book Search App
+# Book Search App - new
 
 Android app that leverages the [OpenLibrary API](https://openlibrary.org/developers/api) to search books and display cover images. This app is to be used as the base app for adding suggested extensions.
 
